@@ -1,4 +1,4 @@
-name: flask_pipeline
+name:flask_pipeline
 
 on:
   push:
